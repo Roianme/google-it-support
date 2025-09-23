@@ -2,7 +2,6 @@
 
 ![Google IT Support Certificate](images\google-it-support-certificate.jpg)
 
-***
 
 # 📋 Overview
 This repository documents my completion of the Google IT Support Professional Certificate, a comprehensive program covering fundamental IT support skills.
@@ -20,3 +19,6 @@ This repository documents my completion of the Google IT Support Professional Ce
 - **Security:** Encryption, authentication, defense in depth, security hardening
 - **IT Infrastructure:** Cloud computing, virtualization, system maintenance
 
+<br></br>
+
+# 📚 Course Breakdown
