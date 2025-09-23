@@ -22,7 +22,7 @@ This repository documents my completion of the Google IT Support Professional Ce
 
 # 📚 Course Breakdown
 
-## Technical Support Fundamentals
+## 🛠️ Technical Support Fundamentals 
 - Google
 
 - Taught by: Google Career Certificates
@@ -33,4 +33,17 @@ This repository documents my completion of the Google IT Support Professional Ce
 
 - Grade Achieved: **90.05%** 
 
-[More details here](courses/course-1.md)
+[More details here →](courses/course-1.md)
+
+## 🔤 The Bits and Bytes of Computer Networking 
+- Google
+
+- Taught by: Google Career Certificates
+
+- Completed by: Kent Roian Basit by September 10, 2025
+
+- 8 - 10 hours per module
+
+- Grade Achieved: **88.40%** 
+
+[More details here →](courses/course-1.md)
