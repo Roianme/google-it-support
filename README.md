@@ -31,4 +31,6 @@ This repository documents my completion of the Google IT Support Professional Ce
 
 - 8 - 10 hours per module
 
-- Grade Achieved: **90.05%**
+- Grade Achieved: **90.05%** 
+
+[More details here](courses/course-1.md)
