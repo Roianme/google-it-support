@@ -2,8 +2,6 @@
 
 ![Google IT Support Certificate](images\google-it-support-certificate.jpg)
 
-![Google IT Support Certificate Badge](images\google-it-support-professional-certificate-v2.png)
-
 ***
 
 # 📋 Overview
