@@ -1,6 +1,18 @@
 # Google IT Support Professional Certificate
 
-![Google IT Support Certificate Badge](https://www.credly.com/badges/2a559464-01cf-4cf8-a9d7-8a23167250df/public_url)
+![Google IT Support Certificate](images\google-it-support-certificate.jpg)
 
-*Official badge from Coursera*
+![Google IT Support Certificate Badge](images\google-it-support-professional-certificate-v2.png)
+
+***
+
+# 📋 Overview
+This repository documents my completion of the Google IT Support Professional Certificate, a comprehensive program covering fundamental IT support skills.
+
+- **Issuer:** Google
+- **Platform:** Coursera
+- **Completion Date:** [Month, Year]
+- **Credential ID:** [Your Certificate ID]
+- **Verification URL:** [Link to your certificate on Coursera]
+
 
