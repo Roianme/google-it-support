@@ -1,6 +1,6 @@
 # Google IT Support Professional Certificate
 
-![Google IT Support Certificate](images\google-it-support-certificate.jpg)
+![Google IT Support Certificate](images/google-it-support-certificate.jpg)
 
 
 # 📋 Overview
@@ -18,7 +18,6 @@ This repository documents my completion of the Google IT Support Professional Ce
 - **System Administration:** User provisioning, data backup and recovery, directory services
 - **Security:** Encryption, authentication, defense in depth, security hardening
 - **IT Infrastructure:** Cloud computing, virtualization, system maintenance
-
 <br></br>
 
 # 📚 Course Breakdown
