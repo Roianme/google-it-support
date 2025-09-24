@@ -22,15 +22,67 @@ This repository documents my completion of the Google IT Support Professional Ce
 
 # 📚 Course Breakdown
 
-## Technical Support Fundamentals
+## 🛠️ Technical Support Fundamentals 
 - Google
 
 - Taught by: Google Career Certificates
 
-- Completed by: Kent Roian Basit by September 4, 2025
+- Completed by: Kent Roian Basit by **September 4, 2025**
 
 - 8 - 10 hours per module
 
 - Grade Achieved: **90.05%** 
 
-[More details here](courses/course-1.md)
+[More details here →](courses/course-1.md)
+
+## 🔤 The Bits and Bytes of Computer Networking 
+- Google
+
+- Taught by: Google Career Certificates
+
+- Completed by: Kent Roian Basit by **September 10, 2025**
+
+- 8 - 10 hours per module
+
+- Grade Achieved: **88.40%** 
+
+[More details here →](courses/course-2.md)
+
+## ⚡ Operating Systems and You: Becoming a Power User
+- Google
+
+- Taught by: Google Career Certificates
+
+- Completed by: Kent Roian Basit by **September 15, 2025**
+
+- 8 - 10 hours per module
+
+- Grade Achieved: **89.16%** 
+
+<!-- [More details here →](courses/course-3.md) -->
+
+## 👥 System Administration and IT Infrastructure Services
+- Google
+
+- Taught by: Google Career Certificates
+
+- Completed by: Kent Roian Basit by **September 19, 2025**
+
+- 8 - 10 hours per module
+
+- Grade Achieved: **91.42%** 
+
+<!-- [More details here →](courses/course-4.md) -->
+
+## 🔒 IT Security: Defense against the digital dark arts
+- Google
+
+- Taught by: Google Career Certificates
+
+- Completed by: Kent Roian Basit by **September 22, 2025**
+
+- 8 - 10 hours per module
+
+- Grade Achieved: **87.13%** 
+
+<!-- [More details here →](courses/course-5.md) -->
