@@ -59,7 +59,7 @@ This repository documents my completion of the Google IT Support Professional Ce
 
 - Grade Achieved: **89.16%** 
 
-<!-- [More details here →](courses/course-3.md) -->
+[More details here →](courses/course-3.md)
 
 ## 👥 System Administration and IT Infrastructure Services
 - Google
