@@ -59,7 +59,7 @@ This repository documents my completion of the Google IT Support Professional Ce
 
 - Grade Achieved: **89.16%** 
 
-<!-- [More details here →](courses/course-3.md) -->
+[More details here →](courses/course-3.md)
 
 ## 👥 System Administration and IT Infrastructure Services
 - Google
@@ -72,7 +72,7 @@ This repository documents my completion of the Google IT Support Professional Ce
 
 - Grade Achieved: **91.42%** 
 
-<!-- [More details here →](courses/course-4.md) -->
+[More details here →](courses/course-4.md)
 
 ## 🔒 IT Security: Defense against the digital dark arts
 - Google
@@ -85,4 +85,4 @@ This repository documents my completion of the Google IT Support Professional Ce
 
 - Grade Achieved: **87.13%** 
 
-<!-- [More details here →](courses/course-5.md) -->
+[More details here →](courses/course-5.md)
